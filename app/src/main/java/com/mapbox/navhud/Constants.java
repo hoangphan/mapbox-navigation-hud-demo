@@ -3,7 +3,7 @@ package com.mapbox.navhud;
 public class Constants {
 
   public static final double MPH_DOUBLE = 2.2369;
-  public static final String MAPBOX_ACCESS_TOKEN = "";
+  public static final String MAPBOX_ACCESS_TOKEN = "pk.eyJ1IjoiaG9hbmdwaGFuIiwiYSI6ImNqOHN2eXY0ZzBlYmczMnAwbTQyNXVhYWkifQ.BbvO9XZQoo0P8qptKXAcVw";
   public static final String PLACE_LOCATION_EXTRA = "PLACE_LOCATION_EXTRA";
 
   // Step Maneuver Modifiers
